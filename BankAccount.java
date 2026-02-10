@@ -1,5 +1,3 @@
-package Lab03_InLab_Tasks;
-
 public class BankAccount {
     int AccountNumber;
     String AccountName;
@@ -30,5 +28,6 @@ public class BankAccount {
         acc2.displayAccDetails();
     }
 }
+
 
 
