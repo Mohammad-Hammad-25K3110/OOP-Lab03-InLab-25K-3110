@@ -1,4 +1,4 @@
-package Lab02;
+package Lab03;
 
 public class BankAccount {
     int AccountNumber;
@@ -30,3 +30,4 @@ public class BankAccount {
         acc2.displayAccDetails();
     }
 }
+
